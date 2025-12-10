@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.ufc.br/images/_images/a_universidade/identidade_visual/brasao/brasao1_horizontal_cor_300dpi.png" width="300" alt="Brasão UFC" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brasao3_horizontal_cor_300dpi.png/640px-Brasao3_horizontal_cor_300dpi.png" width="300" alt="Brasão UFC" />
   &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/26927011?s=200&v=4" width="100" alt="Logo GREI" />
 
   <h1>Olá, sou Luis Felipe! 👋</h1>
