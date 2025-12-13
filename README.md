@@ -49,3 +49,11 @@ Paralelamente à pesquisa em engenharia, dedico-me ao estudo aprofundado de **Ci
   <br>
   <i>"Construindo soluções em engenharia e explorando o mundo dos dados."</i>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisFelipeCSouza/LuisFelipeCSouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisFelipeCSouza/LuisFelipeCSouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuisFelipeCSouza/LuisFelipeCSouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
